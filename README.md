@@ -1,15 +1,15 @@
 # ASSIGNMENT-5-Data-Structures-and-Strings-in-Python
 ##  Program 1: Reverse and Slice a List
 ### Problem Statement 1:
-  -Creates a dictionary where student names are keys and their marks are values.
-  -Asks the user to input a student's name.
-  -Retrieves and displays the corresponding marks.
-  -If the student’s name is not found, display an appropriate message.
+	  -Creates a dictionary where student names are keys and their marks are values.
+	  -Asks the user to input a student's name.
+	  -Retrieves and displays the corresponding marks.
+	  -If the student’s name is not found, display an appropriate message.
 
 ###  Problem Statement 2:
-- Create a list from 1 to 10.
-- Extract the first 5 elements using slicing.
-- Reverse those 5 elements and print them.
+	- Create a list from 1 to 10.
+	- Extract the first 5 elements using slicing.
+	- Reverse those 5 elements and print them.
 
 
 ## Excepted output : 
